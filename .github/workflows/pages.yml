@@ -1,4 +1,4 @@
-name: Publish Heart Lamplighter preview
+name: Publish Heart's Lantern preview
 on:
   workflow_dispatch:
     inputs:
